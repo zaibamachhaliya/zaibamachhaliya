@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zaiba Machhaliya</h1>
+<h3 align="center">Frontend Developer | React | JavaScript | MERN Stack Learner</h3>
 
-<!--
-**zaibamachhaliya/zaibamachhaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🌱 Currently learning **MERN Stack & Open Source Contribution**  
+- 💻 Building **Real-World Projects** to strengthen my development skills  
+- 🔍 Exploring **React, APIs, Tailwind CSS, Redux & GitHub**  
+- 🎯 Goal: Become a Developer at **Google**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+**Frontend:**  
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`  
+
+**Tools & Platforms:**  
+`Git` `GitHub` `VS Code` `Netlify`  
+
+**Learning:**  
+`Node.js` `Express` `MongoDB`  
+
+---
+
+### 📌 Featured Projects  
+- **Masjid Minar Website** – React, Redux, Router  
+- **Hotel Website** – Responsive, Optimized UI  
+- **Recipe Discovery App** – JavaScript, API Integration  
+
+👉 *More projects available in my repositories!*
+
+---
+
+### 📫 Contact  
+- **Email:** zaibamachhaliya@gmail.com  
+- **Portfolio:** https://zaibamachhaliya.github.io  
+- **LinkedIn:** https://linkedin.com/in/zaiba-machhaliya  
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
