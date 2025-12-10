@@ -39,7 +39,7 @@
 
 ### 📫 Contact  
 - **Email:** zaibamachhaliya@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/zaiba-machhaliya  
+- **LinkedIn:** https://www.linkedin.com/in/zaiba-machhaliya-027b91364/
 
 ---
 
