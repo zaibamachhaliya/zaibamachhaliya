@@ -7,7 +7,7 @@
 - 🌱 Currently learning **MERN Stack & Open Source Contribution**  
 - 💻 Building **Real-World Projects** to strengthen my development skills  
 - 🔍 Exploring **React, APIs, Tailwind CSS, Redux & GitHub**  
-- 🎯 Goal: Become a Developer at **Google**  
+
 
 ---
 
