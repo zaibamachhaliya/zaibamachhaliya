@@ -6,12 +6,13 @@
 
 ###  About Me
 
+*  **2nd-year B.Tech student** passionate about software development and Open Source
 *  Full Stack MERN Developer with experience building frontend and backend applications
 *  Actively contributing to **Open Source projects**
 *  Interested in **Open Source collaboration, mentorship, and community-driven development**
-*  Consistent contributor who enjoys exploring real-world codebases, fixing issues, and improving existing features
+*  Enjoy exploring real-world codebases, fixing meaningful issues, and improving existing features
 *  **SSoC 2026 Contributor — Rank #21**
-*  Currently focused on growing through **Open Source contributions and real-world development**
+*  Focused on consistent Open Source contributions and real-world development
 
 ---
 
@@ -29,7 +30,7 @@
 
 ###  Open Source
 
-I am actively interested in contributing to open source and learning through real-world projects.
+I am actively contributing to Open Source and learning through real-world projects and collaboration.
 
 My focus is on:
 
@@ -43,11 +44,11 @@ My focus is on:
 
 **Social Summer of Code (SSoC) 2026**
 
-* Contributed to multiple open source projects
+* Contributed to multiple Open Source projects
 * Worked on real-world issues and pull requests
 * Achieved **Rank #21** on the final leaderboard
 
-I am continuing my Open Source journey with the goal of becoming a stronger long-term contributor and eventually contributing to larger communities.
+I am continuing my Open Source journey with the goal of becoming a stronger long-term contributor and contributing to larger Open Source communities.
 
 ---
 
@@ -56,7 +57,7 @@ I am continuing my Open Source journey with the goal of becoming a stronger long
 I'm interested in:
 
 * Open Source contribution opportunities
-* Long-term collaboration with open source communities
+* Long-term collaboration with Open Source communities
 * Mentorship and learning from experienced contributors
 * Contributing to projects where I can create meaningful impact
 
@@ -64,10 +65,7 @@ I'm interested in:
 
 ###  Connect With Me
 
-* **GitHub:** https://github.com/zaibamachhaliya
 * **LinkedIn:** https://www.linkedin.com/in/zaiba-machhaliya-027b91364/
 * **Email:** [zaibamachhaliya@gmail.com](mailto:zaibamachhaliya@gmail.com)
 
 ---
-
-
